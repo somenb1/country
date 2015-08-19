@@ -1,0 +1,85 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #f4f1ed;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+.big-wrapper{
+	text-align: center;
+	width: 100%;
+}
+.heading{
+	background-color: #6FBF4B;
+	color: #f4f1ed;
+	padding: 1%;
+	border-bottom: 0.1em solid #333;
+}
+.heading h1{
+	font-size: 4em;
+}
+.sub-heading{
+	text-align: right;
+}
+.main-panel{
+	padding: 5% 5%;
+}
+input{
+	width: 50%;
+	height: 50px;
+	font-size: 1.5em;
+	padding-left: 1%;
+	border: 0.1em solid #6FBF4B;
+	background-color: #f4f1ed;  
+}
+button{
+	background-color: #6FBF4B;
+	color: #f4f1ed;
+	border: 0.1em solid #6FBF4B;
+	height: 54px;
+	font-size: 1.5em;
+	min-width: 10%;
+}
+button:hover{
+	cursor: pointer;
+	background-color: inherit;
+	color: #6FBF4B;
+}
+.output-panel{
+	width: 100%;
+	margin-top: 5%;
+	color: #6FBF4B;
+	border: 1px solid;
+	border-radius: 10px;
+}
+.panel-heading{
+	background-color: #6FBF4B;
+	color: #f4f1ed;
+	padding: 1% 1%;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+.panel-body{
+	margin: 1% 1%;
+	padding: 1% 1%;
+	margin-bottom: 2%;
+	border: 0.1em solid #6FBF4B;
+	background-color: #fff;
+}
+	
+.col-name {
+	width: 100%;
+	padding-bottom: 1%; 
+	border-bottom: 0.1em solid #6FBF4B;
+}
+.col-info {
+	margin-top: 1%;
+    text-align: center;
+    font-size: 1.2em;
+}
+.error{
+	padding: 1%;
+	font-size: 1.2em;
+	color: red;
+}
