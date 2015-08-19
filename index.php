@@ -1,6 +1,6 @@
 <!--
-	@ program to find some data (Capital, Currency Code, Country Code, Languages) about all the Country in the World in ONE PLACE.
-	@ MySQL Database : site name.
+	@ Program to find some data (Capital, Currency Code, Country Code, Languages) about all the Country in the World in ONE PLACE.
+	@ Demo : http://www.somenbanerjee/country.
 	@ Author: Somen Banerjee(somen.banerjee0@gmail.com)
 -->
 <?php
